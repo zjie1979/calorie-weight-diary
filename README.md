@@ -7,3 +7,5 @@
 GitHub Pages 发布 main 分支根目录。Safari 打开 → 分享 → 添加到主屏幕。支持离线缓存、食物修改删除、日期补录、JSON 备份导出与合并导入。更换浏览器、设备或域名不会自动迁移记录。
 
 体重实际变化受水分、代谢等影响，参考 NIH：https://www.niddk.nih.gov/research-funding/at-niddk/labs-branches/laboratory-biological-modeling/integrative-physiology-section/research/body-weight-planner
+
+界面分为底部导航四页：今日（摄入与当天身体数据）、记录（食物录入及明细）、趋势（三天均值、预估体重及历史）、设置（估算起点与备份）。数据结构和存储 key 保持不变。
